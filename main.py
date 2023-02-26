@@ -5,3 +5,4 @@ for i in range(2, 200): # Loop from the third number up to the 100th number
     fibonacci.append(next_number) # Add the next number to the list
 
 print(fibonacci)
+print("Hello Rickie")
